@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ODog2028
 - 👀 I’m interested in coding and helping other people!
 - 🌱 I’m currently learning JSX in NextJs
-- 💞️ I’m looking to collaborate on building a beter Spotify Clone then Sonny Sangha on his YouTube channel!
 - 📫 Reach me on skype using my email owenmielcarek@outlook.com or sending me a email at that same address
 
 <!---
